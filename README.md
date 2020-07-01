@@ -22,6 +22,11 @@
     더욱 친근하고 알기 쉽게 전달하는 데 목적을 두고 있음.
 
 
+## '피해줘 코로나' 실행 방법
+
+    리눅스 환경에서 피해줘 코로나.x86_64를 다운로드 후 실행
+    
+
 ## Develop Environment
 
 
@@ -72,3 +77,5 @@
 
     OpenGameArt.ORG - https://opengameart.org/content/happy-arcade-tune
 		    - https://opengameart.org/content/arcade-fast-flow-sound
+
+
